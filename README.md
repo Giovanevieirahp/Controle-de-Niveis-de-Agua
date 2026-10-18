@@ -14,3 +14,7 @@
 - 95% - 100% Nível muito Alto
 ##### Valores fora dessa faixa resultam em erro.
 ###### Esses valores são aproximados, as classificações levam em conta o máximo exato e o mínimo considera a partir uma diferença infinitamente pequena(0,0...1%).
+---
+<div style="display: inline_block"><br>
+<img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
